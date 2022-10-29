@@ -15,12 +15,24 @@ project_entries:
     desc: Did you send this to me?
 
   - title: Books to Benefit
-    url: https://bookstobenefit1311.wixsite.com/website
-    desc: Books to Benefit is a social initiative where we collect pre-loved books and then sell them. All the money we collect is donated to Angel Xpress which is used to fund the education of underprivileged children.
+    url: books-to-benefit
+    desc: (...) Description (...)
 
   - title: Blog
     url: blog
     desc: My blog!
+
+  - title: Maths project
+    url: maths-project
+    desc: A sample maths project that I did
+
+  - title: Internship
+    url: internship
+    desc: I did an internship with Gateway School - Click for details
+
+  - title: Singing
+    url: singing
+    desc: To Do
 
 footer_entries:
   - title: GitHub

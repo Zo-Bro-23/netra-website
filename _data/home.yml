@@ -10,14 +10,17 @@ project_entries:
     url: lumiere-paper
     desc: (I worked with Lumiere for (...) doing (...))
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Trinity Gould essay
+    url: trinity-essay
+    desc: Did you send this to me?
 
-  - title: Project 3
-    url: overview-post
-    desc: Projects can be customized
-    highlight: CUSTOM
+  - title: Books to Benefit
+    url: https://bookstobenefit1311.wixsite.com/website
+    desc: Books to Benefit is a social initiative where we collect pre-loved books and then sell them. All the money we collect is donated to Angel Xpress which is used to fund the education of underprivileged children.
+
+  - title: Blog
+    url: blog
+    desc: My blog!
 
 footer_entries:
   - title: GitHub

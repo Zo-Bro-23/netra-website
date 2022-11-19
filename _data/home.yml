@@ -2,40 +2,49 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: twitter
-    url: https://twitter.com
+  - title: Goodreads
+    url: https://www.goodreads.com/user/show/93849139-netra
 
 project_entries:
   - title: Lumiere research paper
     url: lumiere-paper
     desc: A research paper I completed with Lumiere Research on the Effects of Music on the brains of Neurotypicals vs People with Autism Spectrum Disorder(ASD)
 
-
-
   - title: Trinity Gould essay
     url: trinity-essay
-    desc: 
-
+    desc: “This then is the peculiar paradox of the novel: those of us who love novels often read them because of the eloquence with which they communicate a ‘sense of place’. Yet the truth is that it is the very loss of a lived sense of place that makes their fictional representation possible”. (Amitav Ghosh) 
+           Discuss this quotation in relation to any novel that you have read. 
 
   - title: Books to Benefit
     url: books-to-benefit
     desc: A book donation drive for underpriveleged children
 
-  - title: Blog
-    url: blog
-    desc: My blog!
+  - title: Writing Pursuits
+    url: writing-pursuits
+    desc: 1. Scholastic Writers Academy
+          2. Lead Scriptwriter for School Dramatics Competition
+          3. Gotham 6 week fiction writing course
+          4. Indias next Big Writer
+          5. Currently writing my own book
+  
+  - title: Leadership
+    url: leadership
+    desc: President and Founder of InSync Club
+          Jamnabai Adoloscent Mentor (JAM)
+  
 
-  - title: Maths project
+  - title: Maths Project  
     url: maths-project
     desc: A sample maths project that I did
 
   - title: Internship
     url: internship
-    desc: I did an internship with Gateway School - Click for details
+    desc: I did an internship with Gateway School where I worked with specially abled children in elemntary school
 
   - title: Singing
     url: singing
-    desc: To Do
+    desc: Trinity Rock and Pop Grade 7 Vocal - Distinction
+    
 
 footer_entries:
   - title: GitHub

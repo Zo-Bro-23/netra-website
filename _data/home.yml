@@ -26,6 +26,12 @@ project_entries:
           3. Gotham 6 week fiction writing course
           4. Indias next Big Writer
           5. Currently writing my own book
+  
+  - title: Leadership
+    url: leadership
+    desc: President and Founder of InSync Club
+          Jamnabai Adoloscent Mentor
+  
 
   - title: Maths Project  
     url: maths-project
@@ -38,6 +44,7 @@ project_entries:
   - title: Singing
     url: singing
     desc: To Do
+    
 
 footer_entries:
   - title: GitHub

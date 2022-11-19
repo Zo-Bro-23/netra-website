@@ -8,11 +8,14 @@ navbar_entries:
 project_entries:
   - title: Lumiere research paper
     url: lumiere-paper
-    desc: (I worked with Lumiere for (...) doing (...))
+    desc: A research paper I completed with Lumiere Research on the Effects of Music on the brains of Neurotypicals vs People with Autism Spectrum Disorder(ASD)
+
+
 
   - title: Trinity Gould essay
     url: trinity-essay
-    desc: Did you send this to me?
+    desc: 
+
 
   - title: Books to Benefit
     url: books-to-benefit

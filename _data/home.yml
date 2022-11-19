@@ -31,7 +31,6 @@ project_entries:
     url: leadership
     desc: President and Founder of InSync Club
           Jamnabai Adoloscent Mentor (JAM)
-  
 
   - title: Maths Project  
     url: maths-project
@@ -45,7 +44,6 @@ project_entries:
     url: singing
     desc: Trinity Rock and Pop Grade 7 Vocal - Distinction
     
-
 footer_entries:
   - title: GitHub
     url: https://github.com

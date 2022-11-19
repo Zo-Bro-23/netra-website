@@ -2,8 +2,8 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: twitter
-    url: https://twitter.com
+  - title: Goodreads
+    url: https://www.goodreads.com/user/show/93849139-netra
 
 project_entries:
   - title: Lumiere research paper
@@ -21,9 +21,13 @@ project_entries:
     url: books-to-benefit
     desc: A book donation drive for underpriveleged children
 
-  - title: Blog
-    url: blog
-    desc: My blog!
+  - title: Writing Pursuits
+    url: writing-pursuits
+    desc: 1. Scholastic Writers Academy
+          2. Lead Scriptwriter for School Dramatics Competition
+          3. Gotham 6 week fiction writing course
+          4. Indias next Big Writer
+          5. Currently writing my own book
 
   - title: Maths project
     url: maths-project
